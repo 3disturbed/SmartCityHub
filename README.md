@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/3ba17807-4828-4138-850d-fa8e313aa736)
+
 # SmartCityHub API Platform
 
 ## Overview
@@ -24,6 +26,10 @@ The platform offers:
 8. [License](#license)
 
 ---
+![image](https://github.com/user-attachments/assets/60ac1cde-4469-4adb-b2af-5a74118b6da5)
+
+
+
 
 ## Features
 - **Council-Controlled Data Management**: Councils manage permissions and supply data.
