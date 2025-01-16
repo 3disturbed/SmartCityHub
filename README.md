@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/cf6a9e6e-2ed3-47dd-b266-16b69aa9f614)
+
 ![image](https://github.com/user-attachments/assets/3ba17807-4828-4138-850d-fa8e313aa736)
 
 # SmartCityHub API Platform
